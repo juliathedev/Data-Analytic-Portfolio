@@ -1,4 +1,4 @@
-# 🗺 Julia's Portfolio
+# 🗺 Data Analytic Portfolio
 Data Analyst | SQL, Python, Power Bi 📊
 
 ## 📚 Table of Contents
