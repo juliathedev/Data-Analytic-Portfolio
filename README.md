@@ -7,16 +7,16 @@ Data Analyst | SQL, Python, Power Bi 📊
 - [Power Bi](#powerbi)
 - [DataLens](#DataLens)
 
-# SQL
+# 🗄️ SQL
 
 🚧 **Coming soon**
 
 
-# Python
+# 🐍 Python
 
 🚧 **Coming soon**
 
-# Power Bi
+# 📈 Power Bi
 
 🚧 **Coming soon**
 
