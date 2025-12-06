@@ -10,10 +10,8 @@ Data Analyst | SQL, Python, Power Bi 📊
 # SQL
 
 | Project Link | Area of Analysis | Project Description | 
-|---|---|---|
-| | 
-| |  
-| |  
+Coming soon
+
 
 # Python
 | Project Link | Area of Analysis | Project Description | 
